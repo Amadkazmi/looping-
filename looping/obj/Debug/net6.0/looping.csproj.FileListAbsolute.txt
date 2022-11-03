@@ -1,0 +1,15 @@
+C:\Users\smart\source\repos\looping\looping\bin\Debug\net6.0\looping.exe
+C:\Users\smart\source\repos\looping\looping\bin\Debug\net6.0\looping.deps.json
+C:\Users\smart\source\repos\looping\looping\bin\Debug\net6.0\looping.runtimeconfig.json
+C:\Users\smart\source\repos\looping\looping\bin\Debug\net6.0\looping.dll
+C:\Users\smart\source\repos\looping\looping\bin\Debug\net6.0\looping.pdb
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\looping.csproj.AssemblyReference.cache
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\looping.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\looping.AssemblyInfo.cs
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\looping.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\looping.dll
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\refint\looping.dll
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\looping.pdb
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\looping.genruntimeconfig.cache
+C:\Users\smart\source\repos\looping\looping\obj\Debug\net6.0\ref\looping.dll
